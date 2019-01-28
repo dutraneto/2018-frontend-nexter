@@ -1,24 +1,26 @@
 # Realtors Nexter
 
-## Realtors is a front-end project based on PSD design
+## Nexter is a front-end project based on a PSD/SKETCH designed by Jonas Schmedtmann - Designer
+
+### This project is part of an advanced CSS course
 
 ### Front-end
 
--   HTML
--   JavaScript (jQuery)
--   CSS & SASS
--   Responsive Design
--   Grid System
+- HTML
+- JavaScript (jQuery)
+- CSS & SASS
+- Responsive Design
+- Grid System
 
 ---
 
 ### npm dev-dependencies
 
--   autoprefixer
--   concat
--   node-sass
--   npm-run-all
--   postcss-cli
+- autoprefixer
+- concat
+- node-sass
+- npm-run-all
+- postcss-cli
 
 ---
 
